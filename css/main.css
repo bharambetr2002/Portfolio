@@ -599,7 +599,7 @@ h6 {
 .testimonial-section {
 }
 .testimonial-item {
-  padding-top: 40px;
+  padding-top: 100px;
 }
 .testimonial-carousel.owl-carousel .owl-controls {
   margin-top: 40px;
@@ -647,6 +647,7 @@ h6 {
 }
 .contact-form .form-group {
   margin-bottom: 30px;
+  padding-top: 24px;
 }
 .contact-form .form-group .form-control {
   background-color: #222;
@@ -755,6 +756,7 @@ footer p a {
 }
 .footer-social {
   font-size: 22px;
+  margin-left: auto;
 }
 .footer-social a {
   margin-left: 15px;
