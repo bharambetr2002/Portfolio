@@ -34,12 +34,14 @@ span,
 a {
   display: inline-block;
   text-decoration: none;
+  /* color: #cba982; */
   color: inherit;
 }
 span:hover,
 a:hover {
   text-decoration: none;
   color: #cba982;
+  cursor: pointer;
 }
 b {
   color: #cba982;
@@ -311,6 +313,7 @@ h6 {
   top: 50%;
   transform: translateY(-50%);
   margin: 0;
+  font-size: 23px;
 }
 .hero-social li {
   line-height: 35px;
@@ -359,6 +362,7 @@ h6 {
 .resume-section {
 }
 .exp-list {
+  cursor: pointer;
 }
 .exp-list li {
   margin-bottom: 40px;
@@ -750,6 +754,7 @@ footer p a {
   color: #cba982;
 }
 .footer-social {
+  font-size: 22px;
 }
 .footer-social a {
   margin-left: 15px;
